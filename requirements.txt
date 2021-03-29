@@ -72,7 +72,7 @@ psycopg2-binary==2.7.5
 ptyprocess==0.6.0
 PyBrain==0.3
 pycodestyle==2.4.0
-Pygments==2.2.0
+Pygments==2.7.4
 pylint==2.1.1
 pyparsing==2.2.0
 pyreadline==2.1
